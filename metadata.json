@@ -1,0 +1,8 @@
+{
+  "name": "Inscripción 2027 Ave María FMAVN",
+  "description": "Portal de inscripción y ratificación de alumnos nuevos y antiguos, validación de pagos, contratos y comprobantes para la U.E. Ave María FMAVN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
